@@ -15,8 +15,8 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, aborda intro
 
 ##### Seção 2: Git & GitHub
 
-- [ ] 2.1: _O que é e para que serve?_
-- [ ] 2.2: _Entendendo os comandos_
+- [x] 2.1: _O que é e para que serve?_
+- [x] 2.2: _Entendendo os comandos_
 
 ##### Seção 3: Introdução à HTML & CSS
 
