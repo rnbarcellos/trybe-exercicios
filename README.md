@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Rodrigo Barcellos](https://www.linkedin.com/in/rodrigo-barcellos-b5ba81252/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Rodrigo Barcellos](https://www.linkedin.com/in/rnbarcellos/)_ enquanto estuda na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -10,8 +10,8 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, aborda intro
 
 ##### Seção 1: Introdução - Unix & Shell
 
-- [x] 1.1: _Unix & Shell- Part 1_
-- [x] 1.2: _Unix & Shell- Part 2_
+- [x] 1.1: _Unix & Shell - Part 1_
+- [x] 1.2: _Unix & Shell - Part 2_
 
 ##### Seção 2: Git & GitHub
 
@@ -20,7 +20,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, aborda intro
 
 ##### Seção 3: Introdução à HTML & CSS
 
-- [ ] 3.1: _HTML & CSS - Estruturas de página_
+- [x] 3.1: _HTML & CSS - Estruturas de página_
 - [ ] 3.2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3.3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3.4: _HTML Semântico_
