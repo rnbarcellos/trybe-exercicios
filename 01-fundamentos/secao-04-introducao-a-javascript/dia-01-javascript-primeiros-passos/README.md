@@ -15,7 +15,7 @@
 
 :hourglass_flowing_sand: **#4** Utilize `if/else` para fazer um programa que, dado um valor recebido como parâmetro, retorne “positive” se esse valor for positivo, “negative” se for negativo, e caso não seja nem positivo e nem negativo retorne “zero”.
 
-:hourglass_flowing_sand: **#5** Utilize `if/else` para fazer um programa que defina três constantes com os valores dos três ângulos internos de um triângulo. Retorne `true` se os ângulos representarem os ângulos de um triângulo e `false`, caso contrário. Se algum ângulo for inválido, o programa deve retornar uma mensagem de erro.
+:hourglass_flowing_sand: :rocket: **#5** Utilize `if/else` para fazer um programa que defina três constantes com os valores dos três ângulos internos de um triângulo. Retorne `true` se os ângulos representarem os ângulos de um triângulo e `false`, caso contrário. Se algum ângulo for inválido, o programa deve retornar uma mensagem de erro.
 >- Para os ângulos serem de um triângulo válido, a soma dos três deve ser 180 graus.
 >- Um ângulo será considerado inválido se não tiver um valor positivo.
 
@@ -44,11 +44,9 @@
 :hourglass_flowing_sand: **#8** Utilize `if/else` para fazer um programa que defina três números em constantes e retorne `true` se pelo menos uma das três for par. Caso contrário, ele deve retornar `false`.
 - **Bonus:** use somente um `if`.
 <br>
-<br>
 
 :hourglass_flowing_sand: **#9** Utilize `if/else` para fazer um programa que defina três números em constantes e retorne `true` se pelo menos uma das três for ímpar. Caso contrário, ele deve retornar `false`.
 - **Bonus:** use somente um `if`.
-<br>
 <br>
 
 :hourglass_flowing_sand: **#10** Utilize `if/else` para escrever um programa que se inicie com dois valores em duas constantes diferentes: o custo de um produto e seu valor de venda. A partir dos valores, calcule quanto de lucro (valor de venda, descontado o custo do produto) a empresa terá ao vender mil desses produtos.
