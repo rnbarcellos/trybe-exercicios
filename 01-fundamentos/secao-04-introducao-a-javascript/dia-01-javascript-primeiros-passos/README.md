@@ -8,6 +8,7 @@
 >- Módulo (a % b)
 
 <br>
+
 :hourglass_flowing_sand: **#2** Utilize `if/else` para fazer um programa que retorne o maior de dois números. Defina, no começo do programa, duas constantes com os valores que serão comparados.
 
 :hourglass_flowing_sand: **#3** Utilize `if/else` para fazer um programa que retorne o maior de três números. Defina, no começo do programa, três constantes com os valores que serão comparados.
@@ -27,6 +28,7 @@
 >Exemplo: bishop (bispo) -> diagonals (diagonais)
 
 <br>
+
 :hourglass_flowing_sand: **#7** Utilize if/else para fazer um programa que converta uma nota dada em porcentagem (de 0 a 100) em conceitos de A a F. Siga essas regras:
 >- Porcentagem >= 90 -> A
 >- Porcentagem >= 80 -> B
