@@ -1,7 +1,7 @@
 // Triângulo válido - soma dos ângulos = 180
 // ângulo < 0 = inválido
 
-const angulo1 = 30;
+const angulo1 = 70;
 const angulo2 = 40;
 const angulo3 = 50;
 const anguloTotal = angulo1 + angulo2 + angulo3;
