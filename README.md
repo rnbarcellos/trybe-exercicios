@@ -24,7 +24,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, aborda intro
 - [ ] 3.2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3.3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3.4: _HTML Semântico_
-- [ ] 3.5: _Projeto - Lessons Learned_
+- [x] 3.5: _Projeto - Lessons Learned_
 
 ##### Seção 4: Introdução à JavaScript
 
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, aborda intro
 - [ ] 4.3: _JavaScript - Lógica de Programação e Algoritmo_
 - [ ] 4.4: _JavaScript - Objetos e funções_
 - [ ] 4.5: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 4.6: _Projeto - Playground Functions_
+- [x] 4.6: _Projeto - Playground Functions_
 
 ##### Seção 5: JavaScript: DOM, Eventos e Web Storage
 
@@ -46,6 +46,6 @@ O programa conta com mais de 1.500 horas de aulas online e ao vivo, aborda intro
 
 ##### Seção 6: HTML & CSS: Forms, Flexbox e Responsivo
 
-- [ ] 6.1: _HTML & CSS - Forms_
+- [x] 6.1: _HTML & CSS - Forms_
 - [ ] 6.2: _Bibliotecas JavaScript e Frameworks CSS_
 - [ ] 6.3: _CSS Flexbox - Parte 1_
