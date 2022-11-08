@@ -1,0 +1,28 @@
+header {
+  width: 80%;
+  margin: 20px auto;
+  background-color: #97B9C9;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  line-height: 1.5;
+  border: 1px solid #7A95A3;
+}
+body {
+  background-color: #AAD0E3;
+  color: #3b4950;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+form {
+  width: 80%;
+  margin: 20px auto;
+  border: 1px solid #7A95A3;
+  background-color: #97B9C9;
+  padding: 40px 0;
+}
+
+/* .campos {
+  width: 80%;
+  margin: 0 auto;
+} */
